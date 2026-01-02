@@ -21,7 +21,6 @@ export default function OldIndex() {
         tw='fixed inset-0 m-auto h-full max-w-full'
         width='1428px'
         height='864px'
-        frameBorder='0'
       />
     </>
   )
